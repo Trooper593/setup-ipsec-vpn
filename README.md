@@ -12,6 +12,8 @@ We will use [Libreswan](https://libreswan.org/) as the IPsec server, and [xl2tpd
 
 ## Quick start
 
+https://www.youtube.com/watch?v=Vc5PeXhMJ5A
+
 First, prepare your Linux server\* with a fresh install of Ubuntu, Debian or CentOS.
 
 Use this one-liner to set up an IPsec VPN server:
